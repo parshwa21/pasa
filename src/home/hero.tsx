@@ -63,10 +63,10 @@ const Hero: NextPage = () => {
       <div>
         <h3>Free & Open source</h3>
         <h1>
-          Single Page <br />
-          Resume Builder
+          Resume Builder <br />
+          Developed by Parshwa Bhavsar
         </h1>
-        <h3>Developed By Parshwa Bhavsar</h3>
+        
         <div className="cta-holder">
           <Link href="/editor">
             <a>
